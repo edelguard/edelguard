@@ -1,0 +1,9 @@
+sudo mariadb
+MariaDB [(none)]>
+
+SHOW DATABASES;
+USE 데이타베이스명;
+MariaDB [데이타베이스명]>
+
+SHOW TABLE STATUS;
+SELECT * FROM 테이블명;
